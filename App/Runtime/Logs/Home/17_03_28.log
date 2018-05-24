@@ -1,0 +1,47 @@
+[ 2017-03-28T11:38:25+08:00 ] ::1 /zlApp/index.php/pay/prepay
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-03-28T11:39:03+08:00 ] ::1 /zlApp/index.php/pay/prepay
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-03-28T11:39:56+08:00 ] ::1 /zlApp/index.php/pay/prepay
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-03-28T11:40:13+08:00 ] ::1 /zlApp/index.php/pay/prepay
+ERR: SQLSTATE[HY000] [1049] Unknown database 'zl'
+
+[ 2017-03-28T11:41:14+08:00 ] ::1 /zlApp/index.php/pay/prepay
+ERR: 1146:Table 'zl.pay' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `pay`
+
+[ 2017-03-28T12:08:59+08:00 ] ::1 /zlApp/index.php/pay/prepay
+ERR: 1146:Table 'zl.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+
+[ 2017-03-28T12:29:29+08:00 ] ::1 /zlApp/index.php/pay/prepay
+ERR: curl出错，错误码:60
+
+[ 2017-03-28T13:16:48+08:00 ] ::1 /zlApp/index.php/subscribe/index
+ERR: 1146:Table 'zl.course' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `course`
+
+[ 2017-03-28T13:20:40+08:00 ] ::1 /zlApp/index.php/subscribe/index
+ERR: 1146:Table 'zl.course' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `course`
+
+[ 2017-03-28T13:26:41+08:00 ] ::1 /zlApp/index.php/subscribe/index
+ERR: 1146:Table 'zl.course' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `course`
+
+[ 2017-03-28T13:26:42+08:00 ] ::1 /zlApp/index.php/pay/prepay
+ERR: 1146:Table 'zl.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+
+[ 2017-03-28T13:26:49+08:00 ] ::1 /zlApp/index.php/pay/prepay
+ERR: 1146:Table 'zl.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+
+[ 2017-03-28T14:40:44+08:00 ] ::1 /zlApp/index.php/pay/prepay
+ERR: 1146:Table 'zl.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+
